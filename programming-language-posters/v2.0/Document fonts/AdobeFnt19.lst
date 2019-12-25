@@ -1,0 +1,142 @@
+%!Adobe-FontList 1.19
+%Locale:0x1409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Consolas
+FamilyName:Consolas
+StyleName:Regular
+FullName:Consolas
+MenuName:Consolas
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Local\Exported Packages\Programming Posters\Document fonts\consola.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:459180
+FileModTime:1523493254
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Consolas
+NameArray:0,Win,1,Consolas
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Consolas-Bold
+FamilyName:Consolas
+StyleName:Bold
+FullName:Consolas Bold
+MenuName:Consolas
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Local\Exported Packages\Programming Posters\Document fonts\consolab.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:397896
+FileModTime:1523493254
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Consolas Bold
+NameArray:0,Win,1,Consolas
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Consolas-Italic
+FamilyName:Consolas
+StyleName:Italic
+FullName:Consolas Italic
+MenuName:Consolas
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Local\Exported Packages\Programming Posters\Document fonts\consolai.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:467584
+FileModTime:1523493254
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Consolas Italic
+NameArray:0,Win,1,Consolas
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Local\Exported Packages\Programming Posters\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:217280
+FileModTime:1329263626
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSans-Bold
+FamilyName:Noto Sans
+StyleName:Bold
+FullName:Noto Sans Bold
+MenuName:Noto Sans
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Local\Exported Packages\Programming Posters\Document fonts\NotoSans-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:415132
+FileModTime:1361880000
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSans
+FamilyName:Noto Sans
+StyleName:Regular
+FullName:Noto Sans
+MenuName:Noto Sans
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Local\Exported Packages\Programming Posters\Document fonts\NotoSans-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:414820
+FileModTime:1361880000
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Sans
+%EndFont
+
